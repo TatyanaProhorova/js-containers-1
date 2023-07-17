@@ -7,3 +7,7 @@ export default class Daemon extends Character {
     this.defence = 40;
   }
 }
+
+export const chDaemon1 = new Daemon('Dae1');
+export const chDaemon2 = new Daemon('Dae2');
+export const chDaemon3 = new Daemon('Dae3');
